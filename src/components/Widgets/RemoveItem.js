@@ -38,7 +38,6 @@ export class DeleteButton extends Component {
   };
 
   render() {
-    console.log(1111111111111111111111111111)
     const { isOpen } = this.state;
     const {
       ref,
